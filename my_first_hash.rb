@@ -15,7 +15,7 @@ def retrieval
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-  hash["oil paintings"]
+  hash["oil paintings"].to_i
 end
 
 def adding
