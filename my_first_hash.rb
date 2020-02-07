@@ -1,7 +1,6 @@
 def my_hash
-  your_hash = {"name" => "Dwayne, The Rock, Johnson", "weight" => "a lot"}
+  your_hash = {"name" => "Seth", "weight" => "175", "height" => "5'8", "age" => "41"}
 end
-
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
